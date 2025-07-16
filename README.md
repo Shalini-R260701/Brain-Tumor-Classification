@@ -1,6 +1,3 @@
-# Brain-Tumor-Classification
-Deep learning-based brain tumour classification using Recursive Sigmoid Neural Network (RSN2-MSNS) and Enhanced Deep Clustering U-Net (EDCU-net) for accurate MRI image segmentation and diagnosis.
-
 # 🧠 Deep Learning Based Brain Tumour Classification
 
 This project presents a deep learning approach for classifying brain tumours using MRI images. It leverages a **Recursive Sigmoid Neural Network based on Multi-Scale Neural Segmentation (RSN2-MSNS)** and **Enhanced Deep Clustering U-Net (EDCU-net)** for precise segmentation and classification of tumour regions.
